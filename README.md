@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi, I'm Rafael
+  Hi, I'm Rafael Eich
 </h1>
 
 <p align='center'>
